@@ -11,6 +11,8 @@ Treść tego poradnika, który właśnie przeglądasz możesz wykorzystać rów
 [1.3 Tworzenie bootowalnego pendrive z obrazem ISO](./01/1.3_tworzenie_pendrive.md)<br/>
 [1.4 Konfiguracja BIOS](./01/1.4_konfiguracja_bios.md)<br/>
 [1.5 Instalacja dystrybucji Linux na przykładzie CachyOS](./01/1.5_instalacja_dystrybucji_linux.md)<br/>
+2. Obsługa systemu (głównie terminal!)<br/>
+[2.1 Pierwsze kroki po zainstalowaniu dystrybucji Linux](./02/2.1_pierwsze_kroki.md)<br/>
 
 ### Dołącz do serwera Discord!
 Poradnik napędza Polska Społeczność Linuksa. <br/>
