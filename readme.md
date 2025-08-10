@@ -9,6 +9,7 @@ Treść tego poradnika, który właśnie przeglądasz możesz wykorzystać rów
 [1.1 Wybór dystrybucji Linux](./01/1.1_wybor_dystrybucji_linux.md)<br/>
 [1.2 Przygotowanie do instalacji dystrybucji Linux](./01/1.2_przygotowanie_do_instalacji_linux.md)<br/>
 [1.3 Tworzenie bootowalnego pendrive z obrazem ISO](./01/1.3_tworzenie_pendrive.md)<br/>
+[1.4 Konfiguracja BIOS](./01/1.4_konfiguracja_bios.md)<br/>
 
 ### Dołącz do serwera Discord!
 Poradnik napędza Polska Społeczność Linuksa. <br/>
